@@ -7,6 +7,9 @@ This project is an **Event and Room Management System** designed to manage event
   <img src="https://github.com/user-attachments/assets/82a4bef2-9445-4fa2-9413-cf948651aebc" alt="Watch the video" style="height:300px;">
 </a>
 
+### link to playList
+[https://www.youtube.com/playlist?list=PL5mRhauReKdsCVN-bsTxC6kvcl_J_b7tA](https://www.youtube.com/playlist?list=PL5mRhauReKdsCVN-bsTxC6kvcl_J_b7tA)
+
 ---
 
 ### Implementation Details
