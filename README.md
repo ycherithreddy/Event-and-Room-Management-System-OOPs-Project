@@ -3,7 +3,9 @@
 #### **Project Overview**
 This project is an **Event and Room Management System** designed to manage event lifecycles, room bookings, and user roles. The code implements core Object-Oriented Programming (OOP) principles to ensure scalability and maintainability.
 
-[![Watch the video](https://github.com/user-attachments/assets/82a4bef2-9445-4fa2-9413-cf948651aebc)](https://youtu.be/jQfo1JYeuZ4)
+<a href="https://youtu.be/jQfo1JYeuZ4" target="_blank">
+  <img src="https://github.com/user-attachments/assets/82a4bef2-9445-4fa2-9413-cf948651aebc" alt="Watch the video" style="height:300px;">
+</a>
 
 ---
 
