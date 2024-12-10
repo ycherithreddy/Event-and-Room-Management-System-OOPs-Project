@@ -9,6 +9,24 @@ This project is an **Event and Room Management System** designed to manage event
 
 ---
 
+### Implementation Details
+
+Our project is developed in two versions:
+
+1. **Java Terminal Application**  
+   A simple and straightforward implementation using Java, designed to run in the terminal. The code for this version is included in this repository.
+
+2. **Web Application**  
+   An advanced version with a polished frontend and a robust backend built using Flask and RESTful APIs. The code for this implementation is available in a dedicated repository: [https://github.com/YelavarthiLalitya/Room-Booking-System](https://github.com/YelavarthiLalitya/Room-Booking-System). 
+
+**Please go through both**
+
+We opted to keep the two implementations in separate repositories to maintain clarity and avoid confusion.
+
+---
+
+## 1. **Java Application**
+
 #### **Prerequisites**
 Before running the project, ensure you have the following installed:
 1. **Java Development Kit (JDK)** (version 8 or above)
